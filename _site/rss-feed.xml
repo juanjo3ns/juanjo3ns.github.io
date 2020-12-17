@@ -1,54 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>Millennial</title>
+		<title>Juanjo's</title>
 		<description>a Jekyll theme for running a blog or publication</description>
 		<link></link>
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Getting Started</title>
+				<title>MineRL similarity maps</title>
 				
-					<dc:creator>Paul Le</dc:creator>
+					<dc:creator>@juanjo3ns</dc:creator>
 				
 				
-					<description>&lt;h1 id=&quot;millennial&quot;&gt;Millennial&lt;/h1&gt;
+					<description>&lt;h1 id=&quot;minerl-similarity-maps&quot;&gt;MineRL similarity maps&lt;/h1&gt;
 
 </description>
 				
-				<pubDate>Mon, 10 Oct 2016 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/documentation/getting-started.html</link>
-				<guid isPermaLink="true">http://localhost:4000/documentation/getting-started.html</guid>
-			</item>
-		
-			<item>
-				<title>Text Formatting</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;h1 id=&quot;markdown-support&quot;&gt;Markdown Support&lt;/h1&gt;
-
-</description>
-				
-				<pubDate>Fri, 09 Sep 2016 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/sample/text-formatting.html</link>
-				<guid isPermaLink="true">http://localhost:4000/sample/text-formatting.html</guid>
-			</item>
-		
-			<item>
-				<title>Learning Resources</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;p&gt;The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Thu, 05 May 2016 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/resources/learning-resources.html</link>
-				<guid isPermaLink="true">http://localhost:4000/resources/learning-resources.html</guid>
+				<pubDate>Thu, 17 Dec 2020 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/documentation/mine-maps.html</link>
+				<guid isPermaLink="true">http://localhost:4000/documentation/mine-maps.html</guid>
 			</item>
 		
 			<item>
@@ -57,10 +27,10 @@
 					<dc:creator>JuanJo Nieto</dc:creator>
 				
 				
-					<description>&lt;p&gt;Hi there! I’m Juanjo. I’m currently finishing my master thesis at UPC in Barcelona.&lt;/p&gt;
+					<description>&lt;p&gt;Hi there! I’m Juanjo. I’m currently finishing my master thesis at UPC, Barcelona.&lt;/p&gt;
 </description>
 				
-				<pubDate>Mon, 04 Apr 2016 00:00:00 +0200</pubDate>
+				<pubDate>Thu, 17 Dec 2020 00:00:00 +0100</pubDate>
 				<link>http://localhost:4000/facts/about-the-author.html</link>
 				<guid isPermaLink="true">http://localhost:4000/facts/about-the-author.html</guid>
 			</item>
